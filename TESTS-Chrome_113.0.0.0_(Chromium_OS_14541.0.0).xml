@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 113.0.0.0 (Chromium OS 14541.0.0)" package="" timestamp="2023-05-28T09:37:40" id="0" hostname="penguin" tests="13" errors="0" failures="0" time="0.552">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"/>
+  </properties>
+  <testcase name="AuthGuardService should be created" time="0.047" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).AuthGuardService"/>
+  <testcase name="AppComponent should have as title 'ToDoAngularClient'" time="0.075" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).AppComponent"/>
+  <testcase name="AppComponent should render title" time="0.016" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).AppComponent"/>
+  <testcase name="AppComponent should create the app" time="0.015" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).AppComponent"/>
+  <testcase name="TodoItem should create an instance" time="0.002" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).TodoItem"/>
+  <testcase name="RegisterComponent should create" time="0.147" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).RegisterComponent"/>
+  <testcase name="LoginComponent should create" time="0.063" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).LoginComponent"/>
+  <testcase name="Login should create an instance" time="0.002" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).Login"/>
+  <testcase name="HomeComponent should create" time="0.052" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).HomeComponent"/>
+  <testcase name="TodoAppService should be created" time="0.012" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).TodoAppService"/>
+  <testcase name="Register should create an instance" time="0.002" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).Register"/>
+  <testcase name="TodoItemFormComponent should create" time="0.073" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).TodoItemFormComponent"/>
+  <testcase name="TodoItemsComponent should create" time="0.046" classname="Chrome_113_0_0_0_(Chromium_OS_14541_0_0).TodoItemsComponent"/>
+  <system-out>
+    <![CDATA[Chrome 113.0.0.0 (Chromium OS 14541.0.0) ERROR
+  Disconnected Client disconnected from CONNECTED state (transport close)
+,Chrome 113.0.0.0 (Chromium OS 14541.0.0) WARN: 'Spec 'AppComponent should render title' has no expectations.'
+
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
